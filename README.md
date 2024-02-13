@@ -1,7 +1,3 @@
-Sure, here's a descriptive README file for your Jupyter Notebook:
-
----
-
 # DCGAN for CIFAR-10 Image Generation
 
 ## Overview
